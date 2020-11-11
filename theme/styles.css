@@ -1,0 +1,46 @@
+html body {
+    font-family: 'Merriweather', serif;
+}
+
+.navbar .navbar-brand {
+    color: #ff94a6;
+    font-weight: 400;
+    font-size: 1.56rem;
+    letter-spacing: 0.125rem;
+}
+
+.page-header {
+    color: #484848
+}
+
+.page-header h1{
+    font-weight: 900;
+}
+
+.page-header p {
+    font-weight: 300;
+}
+
+.upload-button {
+    color:  #ff94a6;
+    border-radius: 100%;
+    border: 2px solid #ff94a6;
+}
+
+.upload-button:hover {
+    background-color: #ff94a6;
+    color: #fff;
+}
+
+input {
+    display: none;
+}
+
+.progress {
+    height: 5px;
+}
+
+.progress-bar {
+    width: 25%;
+    background-color: #ff94a6;
+}
