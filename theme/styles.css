@@ -32,6 +32,10 @@ html body {
     color: #fff;
 }
 
+label {
+    cursor: pointer;
+}
+
 input {
     display: none;
 }
